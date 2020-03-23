@@ -14,7 +14,7 @@ You may redistribute and modify this documentation under the terms of the [CERN 
 
 ## Introduction
 
-Miriam is an open-source instrument for isothermal amplification reactions. The assays Miriam was designed to execute are based on LAMP and Elisa protocols. Miriam is controlled with [Arduino](http://www.arduino.cc/) Mega and the production costs per instrument are blow 200USD.
+Miriam is an open-source instrument for isothermal amplification reactions. The assays Miriam was designed to execute are based on LAMP and Elisa protocols. Miriam is controlled with [Arduino](http://www.arduino.cc/) Mega and the production costs per instrument are below 200USD.
 
 ![](miriam.jpg)
 
